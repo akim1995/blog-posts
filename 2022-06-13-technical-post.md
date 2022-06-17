@@ -2,7 +2,7 @@
 title: Technical Post
 subtitle: blah blah
 published: true
-hidden: false
+hidden: true
 ---
 # Technical Post
 
