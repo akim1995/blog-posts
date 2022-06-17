@@ -1,5 +1,5 @@
 ---
-title: Technical Post 2
+title: Test titl
 subtitle: blah blah
 published: true
 hidden: false
