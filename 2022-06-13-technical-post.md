@@ -1,7 +1,7 @@
 ---
 title: Technical Post
-subtitle: "blah blah"
-published: yes
+subtitle: blah blah
+published: true
 hidden: false
 ---
 # Technical Post
