@@ -1,5 +1,6 @@
 ---
 title: Test titl
+subtitle: Sub title
 published: true
 hidden: false
 ---
